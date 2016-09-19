@@ -1,11 +1,11 @@
-Name:
+Name: Michael Sabella
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes
 
-Unit Test Run Successfully:
+Unit Test Run Successfully:     Yes
 
 # Project 1 - CSC 413 Spring 2016
-###DUE Friday, September 23 by 5:00 PM
+###DUE Friday, September 23 by 5:00 PM 
 
 ## Instructions
  This project is very simple, and is intended to get you familiarized
@@ -25,7 +25,7 @@ Unit Test Run Successfully:
  check out csc413project1 from GitHub.
  4. Compile and run the program on your machine.
  5. Run the MainActvityTest on your machine.
- 6. At the very top of the readme file where incicated, write your
+ 6. At the very top of the readme file where indicated, write your
  name, if you could get the program compile and run, and if you could
  get the unit test run on the program.  If you had any problems, please
  describe these problems.
